@@ -1,0 +1,39 @@
+.man {
+  padding: 10px;
+}
+.mus {
+  height: 70px;
+  width: 70px;
+}
+.name {
+  font-family: "Work Sans", sans-serif;
+  color: white;
+  padding-top: 10px;
+}
+.trav {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 600px;
+  width: 1300px;
+}
+.loop {
+  padding: 50px;
+}
+.size {
+  height: 350px;
+  width: 550px;
+}
+.pad {
+  padding: 40px;
+}
+.back {
+  background-color: #e63e3e;
+}
+.lick {
+  background-color: #3d1121;
+}
+.ate {
+  color: white;
+}
